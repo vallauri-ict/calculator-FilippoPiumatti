@@ -1,4 +1,4 @@
-Project created by FIlippo Piumatti
+Project created by Filippo Piumatti
 Title: Calculator
 With visual studio we are going to emulate a calculator similiar to the default windows one
 
